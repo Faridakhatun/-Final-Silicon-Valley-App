@@ -1,0 +1,53 @@
+body
+{
+	background-image: url("modern-liquid-blue-background-free-vector.jpeg") ;
+	background-position: center; 
+	background-size: cover;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+	color:rgb(163, 149, 233)
+}
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+		font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	color:rgb(25, 240, 10)
+}
+#word
+{
+	width: 60%;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#word_display
+{
+	letter-spacing: 5px;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #0b7ef0;
+padding: 10px;
+float: none;
+text-align: left;
+}
+ 
+
+
+h1 {
+color:rgb(241, 41, 41);
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
